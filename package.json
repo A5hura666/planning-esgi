@@ -1,0 +1,17 @@
+{
+  "name": "planning-esgi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "ics": "^3.8.1",
+    "puppeteer": "^23.9.0"
+  }
+}
